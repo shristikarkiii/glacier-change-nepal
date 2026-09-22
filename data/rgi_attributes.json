@@ -1,0 +1,26 @@
+{
+  "ponkar": {
+    "key": "ponkar",
+    "label": "Ponkar Glacier",
+    "rgi_id": "RGI60-15.04541",
+    "rgi_area_km2": 31.267,
+    "zmin_m": 3734,
+    "zmax_m": 6508,
+    "zmed_m": 5768,
+    "slope_deg": 12.8,
+    "aspect_deg": 169,
+    "length_m": 17925
+  },
+  "rikha_samba": {
+    "key": "rikha_samba",
+    "label": "Rikha Samba Glacier",
+    "rgi_id": "RGI60-15.04847",
+    "rgi_area_km2": 6.504,
+    "zmin_m": 5380,
+    "zmax_m": 6513,
+    "zmed_m": 5809,
+    "slope_deg": 16.2,
+    "aspect_deg": 176,
+    "length_m": 5805
+  }
+}

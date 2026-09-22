@@ -1,0 +1,42 @@
+{
+  "rikha_samba": {
+    "label": "Rikha Samba Glacier",
+    "district": "Mustang",
+    "rgi_id": "RGI60-15.04847",
+    "rgi_area_km2": 6.504,
+    "debris_covered": false,
+    "first_epoch": "1991",
+    "last_epoch": "2021",
+    "clean_ice_first_km2": 6.49,
+    "clean_ice_last_km2": 6.009,
+    "change_km2": -0.481,
+    "change_pct": -7.41,
+    "change_uncertainty_km2": 0.018,
+    "significant": true,
+    "rate_km2_per_yr": -0.016,
+    "volume_first_km3": 0.4428,
+    "volume_last_km3": 0.3988,
+    "volume_change_km3": -0.044,
+    "clean_ice_fraction_of_rgi": 0.924
+  },
+  "ponkar": {
+    "label": "Ponkar Glacier",
+    "district": "Manang",
+    "rgi_id": "RGI60-15.04541",
+    "rgi_area_km2": 31.267,
+    "debris_covered": true,
+    "first_epoch": "1991",
+    "last_epoch": "2021",
+    "clean_ice_first_km2": 20.345,
+    "clean_ice_last_km2": 20.026,
+    "change_km2": -0.319,
+    "change_pct": -1.57,
+    "change_uncertainty_km2": 0.029,
+    "significant": true,
+    "rate_km2_per_yr": -0.0106,
+    "volume_first_km3": 2.0944,
+    "volume_last_km3": 2.05,
+    "volume_change_km3": -0.0444,
+    "clean_ice_fraction_of_rgi": 0.64
+  }
+}

@@ -1,0 +1,7 @@
+# rasterio bundles GDAL, which covers raster I/O, the remote /vsicurl reads,
+# coordinate transforms and polygon rasterisation - so no geopandas or shapely.
+rasterio>=1.3
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pyshp>=2.3

@@ -1,0 +1,9 @@
+glacier,epoch,date,sensor,clean_ice_km2,uncertainty_km2,volume_km3,volume_uncertainty_km3,change_from_first_km2,change_from_first_pct
+Rikha Samba Glacier,1991,1991-10-12,LT05,6.49,0.013,0.4428,0.1328,0.0,0.0
+Rikha Samba Glacier,1999,1999-10-10,LE07,6.507,0.013,0.4444,0.1333,0.017,0.26
+Rikha Samba Glacier,2011,2011-10-19,LT05,6.322,0.013,0.4274,0.1282,-0.168,-2.59
+Rikha Samba Glacier,2021,2021-10-14,LC08,6.009,0.013,0.3988,0.1196,-0.481,-7.41
+Ponkar Glacier,1991,1991-10-12,LT05,20.345,0.02,2.0944,0.6283,0.0,0.0
+Ponkar Glacier,1999,1999-10-10,LE07,20.466,0.021,2.1115,0.6334,0.121,0.59
+Ponkar Glacier,2011,2011-10-19,LT05,20.27,0.02,2.084,0.6252,-0.075,-0.37
+Ponkar Glacier,2021,2021-10-14,LC08,20.026,0.021,2.05,0.615,-0.319,-1.57

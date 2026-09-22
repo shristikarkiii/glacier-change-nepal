@@ -1,0 +1,18 @@
+# Fetched on demand by the pipeline
+data/rgi/
+data/dem/
+data/_scene_inventory_*.json
+data/_scene_cloud.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# GIS scratch
+*.qgz~
+*.qgd
+*.lock
+*.aux.xml

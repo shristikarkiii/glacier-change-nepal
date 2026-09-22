@@ -1,0 +1,22 @@
+{
+  "rikha_samba": {
+    "label": "Rikha Samba Glacier",
+    "configurations": 15,
+    "change_pct_min": -9.87,
+    "change_pct_max": -6.9,
+    "change_pct_median": -7.5,
+    "area_2021_min_km2": 6.002,
+    "area_2021_max_km2": 10.702,
+    "all_configurations_show_loss": true
+  },
+  "ponkar": {
+    "label": "Ponkar Glacier",
+    "configurations": 15,
+    "change_pct_min": -2.05,
+    "change_pct_max": -1.06,
+    "change_pct_median": -1.64,
+    "area_2021_min_km2": 19.894,
+    "area_2021_max_km2": 32.079,
+    "all_configurations_show_loss": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "rikha_samba": {
+    "label": "Rikha Samba Glacier",
+    "elevation_min_m": 5375.0,
+    "elevation_max_m": 6515.0,
+    "elevation_median_m": 5807.0,
+    "slope_mean_deg": 17.3,
+    "slope_median_deg": 11.3,
+    "aspect_sector_share_pct": {
+      "N": 0.9,
+      "NE": 3.5,
+      "E": 12.2,
+      "SE": 22.4,
+      "S": 22.9,
+      "SW": 16.4,
+      "W": 14.8,
+      "NW": 6.8
+    },
+    "dominant_aspect": "S",
+    "ice_median_elevation_m": {
+      "1991": 5806.0,
+      "1999": 5806.0,
+      "2011": 5813.0,
+      "2021": 5829.0
+    },
+    "ice_min_elevation_m": {
+      "1991": 5471.0,
+      "1999": 5472.0,
+      "2011": 5491.0,
+      "2021": 5568.0
+    },
+    "median_elevation_rise_m": 23.0,
+    "lower_limit_rise_m": 97.0
+  },
+  "ponkar": {
+    "label": "Ponkar Glacier",
+    "elevation_min_m": 3736.0,
+    "elevation_max_m": 6509.0,
+    "elevation_median_m": 5776.0,
+    "slope_mean_deg": 13.9,
+    "slope_median_deg": 9.4,
+    "aspect_sector_share_pct": {
+      "N": 2.2,
+      "NE": 5.6,
+      "E": 12.1,
+      "SE": 23.3,
+      "S": 24.7,
+      "SW": 17.0,
+      "W": 10.2,
+      "NW": 4.7
+    },
+    "dominant_aspect": "S",
+    "ice_median_elevation_m": {
+      "1991": 5945.0,
+      "1999": 5943.0,
+      "2011": 5946.0,
+      "2021": 5949.0
+    },
+    "ice_min_elevation_m": {
+      "1991": 4902.0,
+      "1999": 4863.0,
+      "2011": 5015.0,
+      "2021": 5123.0
+    },
+    "median_elevation_rise_m": 4.0,
+    "lower_limit_rise_m": 221.0
+  }
+}

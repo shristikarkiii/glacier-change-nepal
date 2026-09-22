@@ -1,0 +1,6 @@
+glacier,reference,reference_year,reference_area_km2,this_study_epoch,this_study_km2,difference_km2,difference_pct,note
+Rikha Samba Glacier,RGI 6.0 (RGI60-15.04847),2000,6.504,1999,6.507,0.003,0.05,
+Rikha Samba Glacier,"Jha & Karki (2024) thesis, 1980s-2010s change",2024,-2.847,1991-2021,-0.481,2.366,-33.51,"reference column holds the thesis area CHANGE, not an extent"
+Ponkar Glacier,RGI 6.0 (RGI60-15.04541),2000,31.267,1999,20.466,-10.801,-34.54,clean ice only; glacier is debris-covered
+Ponkar Glacier,Thapa (2019),2019,28.509,2021,20.026,-8.483,-29.76,clean ice only; glacier is debris-covered
+Ponkar Glacier,"Jha & Karki (2024) thesis, 1980s-2010s change",2024,-20.716,1991-2021,-0.319,20.397,-42.08,"reference column holds the thesis area CHANGE, not an extent"
